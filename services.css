@@ -1,0 +1,200 @@
+body {
+    margin: 0;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+
+.servicesDiv {
+    height: 175px;
+    background-color: #36454F;
+    margin: 0px;
+    padding: 0px;
+}
+
+.servicesTitle {
+    text-align: center;
+    margin-top: 0px;  
+    font-family: "arvo";
+    color: white;
+    font-size: 3em;
+
+}
+
+.dreamHouse {
+    color: white;
+    font-family: "arvo";
+    padding-right: 10px;
+    text-align: center;
+}
+
+
+/* Deck Div Styling */
+
+
+.bodyDiv {
+    background-color: #87CEEB;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.deckTest {
+  float: left;
+  width: 28%;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.deckBody {
+    display: inline;
+    font-family: "arvo";
+}
+
+.bodyText {
+    font-family: "arvo";
+    padding-right: 20px;
+    font-size: 1.5em;
+}
+
+/* Demo Div Styling */
+
+.demoDiv {
+    background-color: #87CEEB;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.demoPhoto {
+    float: right;
+    width: 40%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.demoTitle {
+    display: inline;
+    font-family: "arvo";
+}
+
+.demoText {
+    font-family: "arvo";
+    padding-left: 20px;
+    font-size: 1.5em;
+}
+
+/* Concrete Div Styling */
+
+.concreteDiv {
+    background-color: #87CEEB;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.concretePhoto {
+    float: left;
+    width: 40%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.concreteTitle {
+    display: inline;
+    font-family: "arvo";
+}
+
+.concreteText {
+    font-family: "arvo";
+    padding-right: 20px;
+    font-size: 1.5em;
+}
+
+/* Brick Div Styling */
+
+.brickDiv {
+    background-color: #87CEEB;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.brickPhoto {
+    float: right;
+    width: 25%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.brickTitle {
+    display: inline;
+    font-family: "arvo";
+}
+
+.brickText {
+    font-family: "arvo";
+    padding-left: 20px;
+    font-size: 1.5em;
+}
+
+.text-center {
+    color: white;
+    text-align: center;
+}
+
+/* Bobcat Styling */
+
+.bobcatDiv {
+    background-color: #87CEEB;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.bobcatPhoto {
+    float: left;
+    width: 35%;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.bobcatTitle {
+    display: inline;
+    font-family: "arvo";
+}
+
+.bobcatText {
+    font-family: "arvo";
+    padding-right: 20px;
+    font-size: 1.5em;
+}
+
+/* Fence Styling */
+
+.fenceDiv {
+    background-color: #87CEEB;
+    text-align: center;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-bottom: 25px;
+}
+
+.fencePhoto {
+    float: right;
+    width: 35%;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.fenceTitle {
+    display: inline;
+    font-family: "arvo";
+}
+
+.fenceText {
+    font-family: "arvo";
+    padding-left: 20px;
+    font-size: 1.5em;
+}
+

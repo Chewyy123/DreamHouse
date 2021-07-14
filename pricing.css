@@ -1,0 +1,27 @@
+
+.priceBox {
+    background-color: #87CEEB;
+}
+
+
+.pricingDiv {
+    height: 150px;
+    background-color: #36454F;
+    margin: 0px;
+    padding: 0px;
+}
+
+.pricingTitle {
+    text-align: center;
+    margin-top: 0;
+    font-family: "arvo";
+    color: white;
+    font-size: 3em;
+}
+
+.dreamHouse {
+    color: white;
+    font-family: "arvo";
+    padding-right: 10px;
+    text-align: center;
+}

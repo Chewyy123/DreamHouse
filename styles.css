@@ -1,0 +1,92 @@
+
+
+.nav-item {
+    font-family: "arvo";
+    font-size: 1.25em;
+}
+
+
+nav {
+    background-color: #87CEEB;
+}
+
+/* Top Portion */
+
+
+
+.dreamHouseTitle {
+    text-align: center;
+    padding-top: 75px;
+    color: white;
+    font-family: "arvo";
+    position: relative;
+}
+
+.dreamHouseTop {
+    height: 200px;
+    background-color: #36454F;
+}
+
+/* NavBar */
+
+.dreamHouseInc {
+    padding-right: 350px;
+    padding-left: 20px;
+    font-family: "arvo";
+}
+
+.servicesTitle {
+    color: purple;
+}
+
+.navbarText {
+    padding-left: 320px;
+    font-family: "arvo";
+    font-size: 1.25em;
+}
+
+/* Home Page Body */
+
+.homePageBody {
+    background-color: #36454F;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.bodyPhoto {
+    width: 17%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    float: left;
+    display: inline;
+}
+
+.whoWeAre {
+text-align: center;
+display: block;
+color: white;
+padding-top: 20px;
+font-family: "arvo";
+padding-right: 50px;
+}
+
+.bodyP {
+font-family: "arvo";
+color: white;
+padding-right: 20px;
+font-size: 1.5em;
+}
+
+/* Footer */
+
+.container-fluid {
+    font-family: "arvo";
+}
+
+.getConnected {
+    padding-top: 20px;
+}
+
+
+

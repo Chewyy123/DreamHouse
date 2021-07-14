@@ -1,0 +1,111 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #36454F;
+}
+
+/* Header Div */
+
+
+
+.contactHeaderDiv {
+    height: 150px;
+    background-color: #36454F;
+    margin: 0px;
+    padding: 0px;
+}
+
+.contactTitle {
+    text-align: center;
+    margin-top: 0;
+    font-family: "arvo";
+    color: white;
+    font-size: 3em;
+}
+
+.dreamHouse {
+    color: white;
+    font-family: "arvo";
+    padding-right: 10px;
+    text-align: center;
+}
+
+/* Contact Body Div */
+
+.phoneDiv {
+    background-color:   #87CEEB;
+}
+
+.phonePhoto {
+width: 20%;
+display: inline;
+margin-right: 75px; 
+}
+
+.emailPhoto {
+width: 20%;
+display: inline;
+margin-right: 75px;
+}
+
+.trailerPhoto {
+width: 20%;
+margin-right: 75px;
+}
+
+
+
+.phoneNumber {
+  display: inline;
+  position: relative;
+  font-family: "Arvo";
+  color: white;
+    
+}
+
+.phoneNumberTitle {
+    position: relative;
+    display: inline;
+    font-family: "Arvo"; 
+    margin-right: 20px;
+    color: white;
+}
+
+.emailAddress {
+    position: relative;
+    display: inline;
+    font-family: "arvo";
+    margin-right: 20px;
+    color: white;
+} 
+
+.chavezEmail {
+    position: relative;
+    display: inline;
+    font-family: "arvo";
+    color: white;
+}
+
+.businessTitle {
+position: relative;
+display: inline;
+font-family: "arvo";
+margin-right: 20px;
+color: white;
+}
+
+.businessLocation {
+    position: relative;
+    display: inline;
+    font-family: "arvo";
+    color: white;
+}
+
+.businessDiv {
+    background-color:  #87CEEB;
+}
+
+.emailDiv {
+    background-color:  #87CEEB;
+}
